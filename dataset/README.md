@@ -148,14 +148,7 @@ Validation and test sets must remain unchanged.
 
 Processed datasets are provided on Hugging Face:
 
-GC10-DET:
-https://huggingface.co/datasets/YYYHHHH993/GC10-DET
-
-NEU-DET:
-https://huggingface.co/datasets/YYYHHHH993/NEU-DET
-
-HRIPCB:
-https://huggingface.co/datasets/YYYHHHH993/HRIPCB
+https://huggingface.co/datasets/YYYHHHH993/AGE-YOLO
 
 
 3.1 Processed Dataset Description
