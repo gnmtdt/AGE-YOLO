@@ -27,9 +27,9 @@ dataset/
 │   ├── NEU/
 │   └── HRIPCB/
 │
-├── gc10.yaml
-├── neu.yaml
-├── hripcb.yaml
+├── gc10_data.yaml
+├── neu_data.yaml
+├── hripcb_data.yaml
 │
 └── testlist_gc10.txt   (optional, raw-data preparation only)
 ```
