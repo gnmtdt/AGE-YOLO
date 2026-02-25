@@ -97,6 +97,7 @@ The following table summarizes the performance on the GC10-DET dataset. All resu
 <br>
 
 > **Note:**
-> - **Testing Environment:** NVIDIA RTX 4090D (24 GB), batch size = 1, resolution = 640 × 640. 
+> - **Testing Environment:** NVIDIA RTX 4090D (24 GB), batch size = 1, resolution = 640 × 640.
+> - **Random Seeds:** `42`, `2025`, `1024`, `666`, `777`
 > - **FPS** denotes end-to-end inference speed (Preprocessing + Forward + NMS).
 > - For full class-wise AP and detailed comparisons, please refer to our main paper.
