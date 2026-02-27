@@ -4,7 +4,7 @@ AGE-YOLO is an **accurate, generalized, and efficient** object detection framewo
 
 ## Overview
 
-Steel surface defect detection plays a critical role in industrial manufacturing for ensuring product quality. However, existing methods often struggle to simultaneously achieve high accuracy, real-time efficiency, and stable generalization across diverse ind[gc10_data.yaml](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FUsers%2FYH%2FDesktop%2Fgc10-ok%2Fgc10_data.yaml)ustrial domains. 
+Steel surface defect detection plays a critical role in industrial manufacturing for ensuring product quality. However, existing methods often struggle to simultaneously achieve high accuracy, real-time efficiency, and stable generalization across diverse industrial domains. 
 
 AGE-YOLO addresses these challenges through three synergistic modules:
 
